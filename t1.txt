@@ -1,2 +1,4 @@
 hello 111111
 git commit -m "add 3 files."
+git is good
+yin  qian
